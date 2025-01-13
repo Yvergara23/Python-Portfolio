@@ -7,7 +7,6 @@ pokemon_level = 0
 pokemon_name = "Egg"
 import random
 
-#day
 
 #Functions
 def draw_Charizard1():
