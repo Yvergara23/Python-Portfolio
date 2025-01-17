@@ -11,7 +11,7 @@ Simple Calculator
 
 
 Rock Paper Scissors
-
+     For this project, I was instructed to write code that would let a user play the game Rock Paper Scissors, and would have their scores tracked against the computer until they decided to quit. A goal of this was to use a loop. Something I liked about this code was the random function. I used this function so that the computer randomly chose rock, paper, or scissors to play against the user. I also kept track of wins, losses, and ties. One thing I've been using more often are global variables, and I had to use that for a few things in my code. Something I struggled with was the names I used for my variables and functions. I realized how important it was to use very clear names for things, because it took me longer than I wanted to just due to the fact that I had confused myself. Beyond that, I learned how to change a user's function so it was lowercase.
 
 
 Underwater scene
@@ -19,3 +19,4 @@ Underwater scene
 
 
 Line Drawing
+     This was a partner project I did with Diego. We worked to replicate a car with Idle. With this project, I used the penup function, as well as pensize. I thought this project was interesting because of how well it came out. Beyond that, I recall having a bit of difficulty when Diego and I combined our work. I had to adjust a lot of things. I had to tweak the pensize, the coordinates of where things were, etc. Though this project is very simple, I was very happy with the product. I also remember when Diego worked with circle functions, and when we combined our work, it was something I had to get familiar with as well to scale it with the rest of the car. I would have liked to add colors, but it still looks good regardless.
