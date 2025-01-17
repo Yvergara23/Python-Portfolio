@@ -1,9 +1,8 @@
 # Python-Portfolio
---------------------------------------------------------------------
+
 Pokemon Evolution Game
      The first file is how my code looked like when it was submitted, the second file is a revised version with comments added.
-
-     For this project, I was assigned to make a Pokemon Simulator game that would have a pokemon level up, train, and evolve. This is my best project for Comp Sci. I think the thing that stood out to me the most was the ascii art. I included 4 functions: Train, Gym Battle, Rest/Display Pokemon Info, and exit. One thing I struggled with on this project was changing the name, but after going through global variables, I ended up fixing that part of my code so that the name would change with each evolution. Another thing I did was I made 3 random training messages. So, if a player chose to train their pokemon, it wouldn't be the same "congrats! You leveled up!" and instead, 1 of 3 messages were randomly chosen to be displayed. I also included a cute ascii picture in the introduction message. Overall, I'm happy with my project because it's fun and it is well structured. 
+For this project, I was assigned to make a Pokemon Simulator game that would have a pokemon level up, train, and evolve. This is my best project for Comp Sci. I think the thing that stood out to me the most was the ascii art. I included 4 functions: Train, Gym Battle, Rest/Display Pokemon Info, and exit. One thing I struggled with on this project was changing the name, but after going through global variables, I ended up fixing that part of my code so that the name would change with each evolution. Another thing I did was I made 3 random training messages. So, if a player chose to train their pokemon, it wouldn't be the same "congrats! You leveled up!" and instead, 1 of 3 messages were randomly chosen to be displayed. I also included a cute ascii picture in the introduction message. Overall, I'm happy with my project because it's fun and it is well structured. 
 
 
 Simple Calculator
@@ -14,7 +13,8 @@ Rock Paper Scissors
      For this project, I was instructed to write code that would let a user play the game Rock Paper Scissors, and would have their scores tracked against the computer until they decided to quit. A goal of this was to use a loop. Something I liked about this code was the random function. I used this function so that the computer randomly chose rock, paper, or scissors to play against the user. I also kept track of wins, losses, and ties. One thing I've been using more often are global variables, and I had to use that for a few things in my code. Something I struggled with was the names I used for my variables and functions. I realized how important it was to use very clear names for things, because it took me longer than I wanted to just due to the fact that I had confused myself. Beyond that, I learned how to change a user's function so it was lowercase.
 
 
-Underwater scene
+MadLibs
+     For this project, I was instructed to write code that would let a user input words to make a scenario. Something I struggled with for this program was I tried to write the code with 3 quotation marks so I could indent my lines. However, I wasn't able to do that, and so I left it as is. I enjoyed writing this because it was fun asking my friends for random words. I also used global variables for this project, which is something I've used a lot as of lately. The code was very simple, but I was spending a lot of time trying to figure out how to format the strings. It definitely served as practice for skills I'd forgotten.
 
 
 
